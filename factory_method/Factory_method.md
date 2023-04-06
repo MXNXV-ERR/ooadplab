@@ -1,0 +1,3 @@
+    3. Factory Method (Creational): The ‘Decathlon POS’ software system classifies its customers as senior-citizens(60 and above), First-Time customers, Regular Customers. There is a very high possibility that the CustomerType hierarchy will vary, depending upon the sales-pattern. For e.g. there could be the need to introduce newcategories based on the customer gender, different age groups for kids (0-5, 6-12), teenagers (13-19) and agegroups between 20 to 60(Twenties, 30s, 40s and 50s).
+
+You are advised by Mr.Sundar Pichai, the technical architect of your team, whom you trust, to use Factory MethodPattern in order to instantiate the above Customer Type hierarchy of concrete implementation of objects. Designand implement using this.
