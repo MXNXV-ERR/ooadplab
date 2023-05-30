@@ -1,3 +1,4 @@
-abstract public class Observer {
-	abstract void update(float discount);
+
+public interface Observer {
+	void update(String festival,int dis);
 }
